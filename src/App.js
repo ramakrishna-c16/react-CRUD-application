@@ -117,8 +117,8 @@ class ProductList extends Component{
        this.state= {
            total:0,
            productList: [
-               {name:"Android",price:121,id:1},
-               {name:"Ios",price:150,id:2},
+               {name:"Android",price:133,id:1},
+               {name:"Ios",price:178,id:2},
                {name:"Windows",price:100,id:3}
            ]
        }
